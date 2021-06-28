@@ -1,4 +1,8 @@
 #!/bin/bash
 
 date
-echo "WELCOME TO DEMO GIT SESSION"
+echo "*************** THIS IS FOR TESTING ***************"
+
+free -m
+
+echo "JENKINS JOB BULID IS SUCESSFULLY"
